@@ -14,5 +14,42 @@ Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" w
   <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
+  
+  <img align="right" alt="Dan-pic" height="150" style="border-radius:50px;" src="https://github.com/cutekitten001/cutekitten001/blob/cabfb9958b146d4b6ddf8d2256d2769909e41bd7/tumblr_mjso17bD5O1rjcxgso1_400.gif">
 </div>
+ 
+ ##
+  
+ <div>
+   
+   <section align="center">
+   
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   askMeAbout: ["web dev", "tech", "app dev", "photography"],
+   code: [Javascript, Typescript, HTML, CSS, Python, React, React Native],
+   technologies: {
+      frontEnd: {
+         js: ["React", "React Native", "NextJS"],
+         css: ["scss", "styled-components", "Bootstrap"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+         python: ["flask"]
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+      misc: ["Bash", "Selenium"]
+   },
+   currentOccupation: ["Open for job opportunities"],
+   challenge: "I’m looking to collaborate with other content creators",
+   goals: "Contribute more to Open Source projects",
+   funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+----
+</section>
+   
+  ![Snake animation](https://github.com/cutekitten001/cutekitten001/blob/cabfb9958b146d4b6ddf8d2256d2769909e41bd7/github-contribution-grid-snake.svg) 
+ 
+ </div>
